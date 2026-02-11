@@ -1,3 +1,4 @@
+```
 CREATE DATABASE CollegeDB;
 USE CollegeDB;
 
@@ -14,3 +15,4 @@ INSERT INTO Student VALUES
 (3,'Sita',19,90);
 
 SELECT * FROM Student;
+```
